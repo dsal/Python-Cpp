@@ -1,7 +1,8 @@
 # Python-Learning
-# From basics to advance, here is code samples to learn Python.
+by Ahmad Salehi
+**From basics to advance, here is code samples to learn Python!**
 
-Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around objects—which are instances of classes.
+**Object-Oriented Programming (OOP)** is a programming paradigm that organizes software design around objects—which are instances of classes.
 Each object bundles together:
 Data (attributes/state) → variables that describe the object.
 Behavior (methods/functions) → operations that the object can perform.
