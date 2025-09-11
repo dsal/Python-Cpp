@@ -1,6 +1,9 @@
 # Python-Learning
 by Ahmad Salehi
 
+Rename bunch of files:
+rename 's/^Skywatch//' Skywatch_*
+
 **From basics to advance, here is code samples to learn Python!**
 
 **Object-Oriented Programming (OOP)** is a programming paradigm that organizes software design around objects—which are instances of classes.
