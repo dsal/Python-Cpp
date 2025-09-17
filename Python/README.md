@@ -1,9 +1,7 @@
 # Python-Learning
 by Ahmad Salehi
 
-**Interaction with Operating System:**
-
-import os
+**import os (Interaction with Operating System)**
 
 os.getcwd()  .  .  .  # shows where the Python program is runnung
 
