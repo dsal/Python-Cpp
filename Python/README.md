@@ -5,7 +5,7 @@ by Ahmad Salehi
 
 import os
 
-os.getcwd()  # shows where the Python program is runnung
+os.getcwd()  ...  # shows where the Python program is runnung
 
 os. chdir("/home/.../folder")  # it changes the directory
 
