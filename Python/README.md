@@ -7,15 +7,15 @@ import os
 
 os.getcwd()  .  .  .  # shows where the Python program is runnung
 
-os. chdir("/home/.../folder")  # it changes the directory
+os. chdir("/home/.../folder") .  .  . # it changes the directory
 
-os.list()  # it lists in current folder
+os.list() .  .  . # it lists in current folder
 
-os.listdir("/path")  # It lists in a given path
+os.listdir("/path") .  .  . # It lists in a given path
 
 os.mkdir("new_folder")
 
-os.makedir("a/b/c")  # It makes nested folders
+os.makedir("a/b/c") .  .  . # It makes nested folders
 
 os.rmdir("new_folder")
 
@@ -25,20 +25,20 @@ os.rename("old.txt", "new.txt")
 
 os.remove("new.txt")
 
-os. environ  # It shows all environment variables
+os. environ .  .  . # It shows all environment variables
 
-os.environ["HOME"]  # It gets specific variable
+os.environ["HOME"] .  .  . # It gets specific variable
 
 os.environ.get("/home/...")
 
-os.path.join("folder", "file.txt")  # It joins path
+os.path.join("folder", "file.txt") .  .  . # It joins path
 
-os.path.exists("file.txt")  # It checks if exists
+os.path.exists("file.txt") .  .  . # It checks if exists
 
-os.path.isfile("file.txt")  # It checks if file
+os.path.isfile("file.txt") .  .  . # It checks if file
 
-os.path.isdir("folder")  # It checks if directory
+os.path.isdir("folder") .  .  . # It checks if directory
 
-os.path.splitext("data.csv")  # ('data', '.csv')
+os.path.splitext("data.csv") .  .  . # ('data', '.csv')
 
-os.system("ls")  # It lists files
+os.system("ls") .  .  . # It lists files
